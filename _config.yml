@@ -2,7 +2,7 @@
 name: "Okteto Community India"
 title: "Okteto Community India "
 description: " The Kubernetes development platform - Empower developers to innovate and deliver cloud-native applications faster than ever."
-logo: 'assets/images/logo.png'
+logo: 'assets/images//okteto-bangalore-logo-transparent.svg'
 favicon: 'assets/images/logo.png'
 baseurl: /community
 google_analytics: 'UA-xxxxxxxx-1'
